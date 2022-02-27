@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords and Commons assembled in Parliament; for raising an army of horse and foot in the severall counties and cities herein mentioned. To be ready to march the twentieth day of this instant Iuly, and to continue onely for the space of two moneths. The said forces to be paid by their severall counties, according to their severall proportions. Die Veneris, 12 Julii; 1644. Ordered by the Commons in Parliament, that this ordinance be forthwith printed; and that the gentlemen of the severall counties, Members of the House of Commons, on which any proportions are set, are hereby required to send copies of them down into their severall counties, and to write to the severall and respective committees, to take care that this ordinance may be forthwith put in execution. H: Elsynge, Cler. Parl. D. Com.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83112</idno>
+            <idno type="STC">Wing E1905</idno>
+            <idno type="STC">Thomason E2_8</idno>
+            <idno type="STC">ESTC R17665</idno>
+            <idno type="STC">ESTC R18070</idno>
+            <idno type="STC">ESTC R2443</idno>
+            <idno type="EEBO-CITATION">99860243</idno>
+            <idno type="PROQUEST">99860243</idno>
+            <idno type="VID">112360</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83112)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112360)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 1:E2[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords and Commons assembled in Parliament; for raising an army of horse and foot in the severall counties and cities herein mentioned. To be ready to march the twentieth day of this instant Iuly, and to continue onely for the space of two moneths. The said forces to be paid by their severall counties, according to their severall proportions. Die Veneris, 12 Julii; 1644. Ordered by the Commons in Parliament, that this ordinance be forthwith printed; and that the gentlemen of the severall counties, Members of the House of Commons, on which any proportions are set, are hereby required to send copies of them down into their severall counties, and to write to the severall and respective committees, to take care that this ordinance may be forthwith put in execution. H: Elsynge, Cler. Parl. D. Com.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husbands,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Iuly 15. 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112360:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 127 -->
+            <p>AN ORDINANCE OF THE <hi>LORDS</hi> and <hi>COMMONS</hi> Aſſembled in PARLIAMENT;</p>
+            <p>For Raiſing an Army of Horſe and Foot in the ſeverall Counties and Cities herein mentioned.</p>
+            <p>To be ready to march the Twentieth day of this inſtant Iuly, and to continue onely for the ſpace of Two moneths.</p>
+            <p>The ſaid Forces to be paid by their ſeverall Coun<g ref="char:EOLhyphen"/>ties, according to their ſeverall proportions.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <head>Die Veneris, 12. Julii; 1644.</head>
+                        <p>ORdered by the Commons in Parliament, That this Ordinance be forthwith printed; And that the Gentlemen of the ſeverall Counties, Members of the Houſe of Commons, on which any proportions are ſet, are hereby required to ſend Copies of them down into their ſeverall Counties, and to write to the ſeverall and reſpective Committees, to take care that this Ordi<g ref="char:EOLhyphen"/>nance may be forthwith put in execution.</p>
+                        <closer>
+                           <signed>H: Elſynge, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edward Husbands,</hi> Iuly 15. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:112360:2"/>
+            <!-- PDF PAGE 128 -->
+            <pb n="3" facs="tcp:112360:2"/>
+            <!-- PDF PAGE 128 -->
+            <head>An Ordinance of the Lords and Commons Aſſembled in Parliament, for rayſing an Army of Horſe and Foot in the ſeverall Counties herein expreſſed.</head>
+            <p>WHereas the Counties of <hi>Suffolk, Norfolk, Eſſex,</hi> and other counties and places have lately raiſed divers great Forces both of Horſe and Foot, to withſtand the incurſion of the Enemy, and to preſerve them<g ref="char:EOLhyphen"/>ſelves from plundering, and their Countries from ruine and deſtructi<g ref="char:EOLhyphen"/>on, which Forces ſhould they be con<g ref="char:EOLhyphen"/>tinued abroad any long time would not only be a prejudice to thoſe Coun<g ref="char:EOLhyphen"/>tries in reſpect of their Harveſt, but would be too great a charge for them to beare. And for as much as it is neceſſary that ſome courſe be taken for the keeping of the Enemy from plundering and ſpoyling, and ſecuring the Countries from the danger of A<g ref="char:EOLhyphen"/>larms,
+<pb n="4" facs="tcp:112360:3"/>
+               <!-- PDF PAGE 129 -->which otherwiſe will enforce them to continuall riſing, diſturbe them in their Harveſt, and other neceſ<g ref="char:EOLhyphen"/>ſary imployment, and make their charge inſupportable; To the end therefore the Trained Bands now upon theſe late Alarms raiſed, may re<g ref="char:EOLhyphen"/>turne home, and their Country ſecu<g ref="char:EOLhyphen"/>red from ſuch further trouble, Be it Ordained by the Lords and Com<g ref="char:EOLhyphen"/>mons in this preſent Parliament Aſ<g ref="char:EOLhyphen"/>ſembled, that the ſeverall Counties, Cities, and places hereafter mentio<g ref="char:EOLhyphen"/>ned, ſhall immediatly after the receipt of this Ordinance, raiſe ſuch forces of Horſe and Foot well and ſufficiently armed, as are hereafter particularly ſet downe, to be ready to march the twentieth day of this preſent Iuly, one thouſand ſix hundred forty foure; That is to ſay:</p>
+            <p>The county of <hi>Eſſex,</hi> one thouſand Foot, one hundred Horſe, and one hundred Dragoones.</p>
+            <p>The county of <hi>Suffolke,</hi> one thou<g ref="char:EOLhyphen"/>ſand Foot, one hundred Horſe, and
+<pb n="5" facs="tcp:112360:3"/>
+               <!-- PDF PAGE 129 -->one hundred Dragoones.</p>
+            <p>The County of <hi>Norfolke,</hi> and City of <hi>Norwich,</hi> one thouſand Foot, one hundred Horſe, and one hundred Dra<g ref="char:EOLhyphen"/>goones.</p>
+            <p>The County of <hi>Hertford,</hi> five hun<g ref="char:EOLhyphen"/>dred Foot, fifty Horſe, and fifty Dra<g ref="char:EOLhyphen"/>goones.</p>
+            <p>The Counties of <hi>Huntington</hi> and <hi>Cambridge,</hi> with the Iſle of <hi>Ely,</hi> eight hundred Foot, one hundred Horſe, and one hundred Dragoones.</p>
+            <p>The County of <hi>Bedford,</hi> five hun<g ref="char:EOLhyphen"/>dred Foot, fifty Horſe, and fifty Dra<g ref="char:EOLhyphen"/>goones.</p>
+            <p>The County of <hi>Kent,</hi> and the City and County of the City of <hi>Canterbury,</hi> and the Cinque Port, one thouſand Foot, one hundred Horſe, and one hundred Dragoones.</p>
+            <p>The City of <hi>London,</hi> and County of <hi>Middleſex,</hi> two hundred Horſe.</p>
+            <p>The Counties of <hi>Oxon, Berks,</hi> and <hi>Buckingham,</hi> one thouſand Foot, two hundred Horſe, and two hundred Dragoones.</p>
+            <pb n="6" facs="tcp:112360:4"/>
+            <!-- PDF PAGE 130 -->
+            <p>The county of <hi>Northampton,</hi> three hundred Foot, two hundred Horſe, and one hundred Dragoones.</p>
+            <p>The county of <hi>Warwick,</hi> the City and County of the City of <hi>Coventry,</hi> three hundred Foot, one hundred Horſe, and one hundred Dragoones.</p>
+            <p>The county of <hi>Gloceſter,</hi> the City and County of the City of <hi>Gloceſter,</hi> five hundred Foot, one hundred Horſe, and one hundred Dragoones.</p>
+            <p>The county of <hi>Wilts,</hi> five hundred Foot, one hundred Horſe, and one hundred Dragoones.</p>
+            <p>The counties of <hi>Suſſex</hi> and <hi>Surrey,</hi> one thouſand Foot, one hundred Horſe, and one hundred Dragoones.</p>
+            <p>And the county of <hi>Hampſhire,</hi> and the Town and county of <hi>Southampton,</hi> ſix hundred Foot, one hundred Horſe, and fifty Dragoones, which ſaid For<g ref="char:EOLhyphen"/>ces ſo levied are to be imployed about <hi>Oxon,</hi> or ſuch other places as by both Houſes of Parliament, or the Com<g ref="char:EOLhyphen"/>mittee of both Kingdomes ſhall be thought neceſſary for the purpoſes a<g ref="char:EOLhyphen"/>foreſaid,
+<pb n="7" facs="tcp:112360:4"/>
+               <!-- PDF PAGE 130 -->and to continue onely for the ſpace of two Moneths, from the time that they ſhall come to the place of ge<g ref="char:EOLhyphen"/>nerall Rendezvouz.</p>
+            <p>And it is further Ordained by the ſaid Lords and Commons, that the ſeverall and reſpective Committees of Parliament, of the ſeverall coun<g ref="char:EOLhyphen"/>ties, cities, and places aforeſaid, or any three of them, are hereby authori<g ref="char:EOLhyphen"/>ſed and required, to cauſe this Ordi<g ref="char:EOLhyphen"/>nance to be put in ſpeedy execution. And for the more ſpeedy execution of this Ordinance, and that the Com<g ref="char:EOLhyphen"/>mittees of Parliament (unto whoſe care and fidelity the ſame is eſpecially entruſted, &amp; recommended to be forth<g ref="char:EOLhyphen"/>with diſpatched) may be armed with power ſufficient for the effecting the ſame, Be it likewiſe Ordained by the authority aforeſaid, that it ſhall and may be lawfull for them, or any three of them reſpectively, by ſuch reaſon a<g ref="char:EOLhyphen"/>ble waies and meanes as they ſhall find moſt convenient, to raiſe and levie ſuch monies out of the ſeverall coun<g ref="char:EOLhyphen"/>ties,
+<pb n="8" facs="tcp:112360:5"/>
+               <!-- PDF PAGE 131 -->cities and places aforeſaid, as ſhall enable them to raiſe and arme the ſaid Forces of Horſe, Foot, and Dragoones, and pay them during the time they ſhall be imployed; And if any perſon or perſons ſhall neglect to pay any ſumme of monie whereat he ſhall be ſo rated or aſſeſſed, that then it ſhall and may be lawfull to and for the ſaid Committees, or any three of them re<g ref="char:EOLhyphen"/>ſpectively, to appoint a diſtreſſe of the goods of ſuch perſons to be taken and ſold for ſatisfaction of the ſame, re<g ref="char:EOLhyphen"/>ſtoring unto the owner the overplus after all neceſſarie charges deducted; &amp; further power and authority is hereby given to the ſaid reſpective Commit<g ref="char:EOLhyphen"/>tees, or any three of them reſpective<g ref="char:EOLhyphen"/>ly, to uſe all good waies and meanes for the effecting of this ſervice, as they in their wiſedomes ſhall think conve<g ref="char:EOLhyphen"/>nient; And if any perſon ſhall ſhew himſelfe oppoſite or refractory unto this ſervice, ſo as the ſame by meanes thereof ſhall be delayed, diſturbed, or hindered; it ſhall and may be lawfull
+<pb n="9" facs="tcp:112360:5"/>
+               <!-- PDF PAGE 131 -->to the ſaid ſeverall Committees, or a<g ref="char:EOLhyphen"/>ny three of them reſpectively, to im<g ref="char:EOLhyphen"/>poſe a reaſonable Fine upon ſuch per<g ref="char:EOLhyphen"/>ſon for his contempt therein, ſo as the ſame exceed not the ſumme of ten pounds for any one offence; and to le<g ref="char:EOLhyphen"/>vie the ſame by ſequeſtration of his Eſtate, or impriſonment of his body. And becauſe it is not expected that the Trained Band-men ſhould in this time of Harveſt be imployed in this ſervice without their own conſents, or an abſolute necesſity, and that proba<g ref="char:EOLhyphen"/>bly it may be difficult to find ſo many volunteers as will be ſufficient to make up the full numbers in this Or<g ref="char:EOLhyphen"/>dinance expreſſed;</p>
+            <p>It is hereby further Ordained by the ſaid Lords and Commons, That the ſaid reſpective Committees or a<g ref="char:EOLhyphen"/>ny three of them, are hereby authori<g ref="char:EOLhyphen"/>ſed in their reſpective counties, cities and places, to Impreſt fit and able men for this ſervice, and to impriſon ſuch perſons as ſhall refuſe to give
+<pb n="10" facs="tcp:112360:6"/>
+               <!-- PDF PAGE 132 -->obedience, untill they conform there<g ref="char:EOLhyphen"/>unto.</p>
+            <p>And it is laſtly Ordained by the Au<g ref="char:EOLhyphen"/>thority aforeſaid, that the ſaid reſpe<g ref="char:EOLhyphen"/>ctive Committees or any three of them, in their reſpective counties, ci<g ref="char:EOLhyphen"/>ties and places, are hereby authori<g ref="char:EOLhyphen"/>ſed to reduce the ſaid Foot forces re<g ref="char:EOLhyphen"/>ſpectively into companies and Regi<g ref="char:EOLhyphen"/>ments, and the Horſe and Dragoons into Troops, and nominate and place over them Colonels, Captains, and other Officers, except the Majors of the ſaid Regiments, whoſe ſeverall and reſpective companies are to be commanded by the reſpective Lieu<g ref="char:EOLhyphen"/>tenants thereof, to the place of Ren<g ref="char:EOLhyphen"/>dezvous. Provided that no Regiment of Foot ſhall conſiſt of leſſe then One thouſand Foot, beſides Officers, and no Troop of Horſe or Dragoons of leſſe then One hundred, beſides Offi<g ref="char:EOLhyphen"/>cers; and where any county is hereby to raiſe a leſſe number of men then will make up an entire Regiment, the
+<pb n="11" facs="tcp:112360:6"/>
+               <!-- PDF PAGE 132 -->ſeverall and reſpective Committees of ſuch counties and places, are to meet together with what convenien<g ref="char:EOLhyphen"/>cie they ſhall think moſt fit, and to joyn their Forces into Regiments as aforeſaid.</p>
+            <p>And the Committee of both King<g ref="char:EOLhyphen"/>doms are hereby authoriſed to nomi<g ref="char:EOLhyphen"/>nate a Major of every Regiment of Foot, and to form the Horſe and Dra<g ref="char:EOLhyphen"/>goons into Regiments, and nominate the Field-Officers, the ſaid Majors and Field-Officers to be approved by both Houſes of Parliament.</p>
+            <p>Provided alwayes, That this Or<g ref="char:EOLhyphen"/>dinance ſhall not extend to the Preſ<g ref="char:EOLhyphen"/>ſing of any Clergy-man, Scholler, or Student in any the Vniverſities, Inues of Court or Chancery, or Houſes of Law, or any the Trained Bands in any county, city or place, or of any perſon rated in the laſt Subſi<g ref="char:EOLhyphen"/>dies granted by the Parliament, or the ſon of any perſon rated at Fine pounds Goods, or three pound Lands
+<pb n="12" facs="tcp:112360:7"/>
+               <!-- PDF PAGE 133 -->in the Subſidy Books; or of any per<g ref="char:EOLhyphen"/>ſon of the rank or degree of an Eſ<g ref="char:EOLhyphen"/>quire or upwards, or the ſon of any ſuch perſon, or the ſon of the widow of any ſuch perſon; or to the Preſſing of any perſon under the age of Eighteen or above the age of Fifty; or of the Members or Officers of ei<g ref="char:EOLhyphen"/>ther Houſe of Parliament; or of the Meniall ſervants of the Members or Officers of either of the ſaid Houſes, or any the Aſſiſtants of the Lords Houſe, or any of their Meniall ſer<g ref="char:EOLhyphen"/>vants; or any the Inhabitants of the I<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>les of <hi>Wight</hi> or <hi>Angleſey,</hi> or Cinque Ports, or of any Mariner, Seaman or Fiſherman.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
